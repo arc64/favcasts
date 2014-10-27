@@ -1,6 +1,8 @@
 ---
 layout: index
 ---
+
+* [Serial](http://serialpodcast.org/)
 * [Memory Palace](http://thememorypalace.us/)
 * [99% invisible](http://99percentinvisible.org/)
 * [BBC Friday night comedy](http://www.bbc.co.uk/podcasts/series/fricomedy)
@@ -21,4 +23,4 @@ layout: index
 * [KCRW's Good Food](https://itunes.apple.com/us/podcast/kcrws-good-food/id73331041?mt=2)
 * [Slate (Political Gabfest, Culture Gabfest)](http://www.slate.com/articles/podcasts.html)
 
-Thanks to Miranda Mulligan, Rebekah Monson and Chris Cross
+Thanks to Annabel Church, Miranda Mulligan, Rebekah Monson and Chris Cross
